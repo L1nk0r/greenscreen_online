@@ -1,0 +1,18 @@
+canvas{
+   border: black 1px solid;
+}
+
+#main_div{
+   float: left;
+   margin: 20px;
+   padding: 10px;
+}
+
+h1{
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.one_image_div{
+   float:left;
+   margin: 10px;
+}
